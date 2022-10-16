@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...frontend devlopere
 - 🌱 I’m currently learning ... javascript,react
 - 💞️ I’m looking to collaborate on ... devloper 
-- 📫 How to reach me ... by through mail
+- 📫 How to reach me ... "ohhh" waooo u want 
 
 <!---
 Ranjan222555/Ranjan222555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
