@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Ranjan
-- 👀 I’m interested in ...frontend devlopere
-- 🌱 I’m currently learning ... javascript,react
-- 💞️ I’m looking to collaborate on ... devloper 
-- 📫 How to reach me ... You can contact me through my email ID and Phone thank you.
+Hello, I'm Ranjan  👋, a frontend developer with a passion for crafting user-friendly interfaces and delivering seamless user experiences. I specialize in modern JavaScript frameworks, with a particular focus on React.
 
-<!---
-Ranjan222555/Ranjan222555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Technologies I work with:
+- React, Redux, and Context API
+- HTML5, CSS3, JavaScript (ES6+)
+- Tailwind CSS, Bootstrap
+- Responsive design and cross-browser compatibility
+- Version control (Git)
+
+🌟 My philosophy is to write clean, maintainable code while delivering high-performance, responsive web applications. Always eager to learn new technologies and improve existing skills. Feel free to connect with me or explore my repositories!
